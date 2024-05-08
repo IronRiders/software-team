@@ -6,4 +6,9 @@ We could use a repository like this to store key information for the 4180 softwa
 
 
 Temp links that should possibly be here:
+
+WPI Lib Download and Docs:
 https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html
+
+Basic Java Course:
+https://www.w3schools.com/java/
