@@ -10,5 +10,8 @@ Temp links that should possibly be here:
 WPI Lib Download and Docs:
 https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html
 
-Basic Java Course:
+Basic Java Course (Learn on your own time):
 https://www.w3schools.com/java/
+
+Java Course (Has more advanced things):
+https://www.codecademy.com/learn/learn-java
