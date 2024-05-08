@@ -1,4 +1,4 @@
-# SoftwareTeam
+# Software Team Quickstart Guide
 
 Last Update: 5/8/24
 
