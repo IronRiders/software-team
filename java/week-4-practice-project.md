@@ -6,13 +6,8 @@
 
 ### 4.2 Two Dimensional Arrays
 
-<<<<<<< HEAD
 [Lesson](https://www.codecademy.com/courses/learn-java/lessons/2-d-arrays-java)  
 [Cheatsheet](https://www.codecademy.com/learn/learn-java/modules/java-two-dimensional-arrays/cheatsheet)
-=======
-Lesson: https://www.codecademy.com/courses/learn-java/lessons/2-d-arrays-java  
-Cheatsheet: https://www.codecademy.com/learn/learn-java/modules/java-two-dimensional-arrays/cheatsheet
->>>>>>> 7922e92f867f33bfa9b88b811521a934f8c16c37
 
 [w3Schools Arrays](https://www.w3schools.com/java/java_arrays.asp)
 
