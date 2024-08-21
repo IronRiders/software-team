@@ -6,22 +6,22 @@ in any programming language, if you already know a little Java, or anything inbe
 
 ### Overview
 
-Week 1: Core Concepts (September 16th - 20th)
+Week 1: Core Concepts
 - Hello World
 - Variables
 - Object Oriented Programming
 
-Week 2: Control Flow (September 23rd - 27th)
+Week 2: Control Flow
 - Conditions and Control Flow
 - Arrays and ArrayLists
 - Loops
 
-Week 3: Advanced OOP (September 30th - October 4th)
+Week 3: Advanced OOP
 - String Methods
 - Access, Encapsulation, and Static Methods
 - Inheritance and Polymorphism
 
-Week 4: Practice Project (October 7th - 11th)
+Week 4: Practice Project
 - Debugging
 - Two Dimensional Arrays
 - Practice Project
