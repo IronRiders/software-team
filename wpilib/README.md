@@ -17,5 +17,10 @@ Week 2: Driver Control
 - Good Control Systems
 
 Week 3: Automatic Routines
+- PathPlanner
+- Deploy Directory
+- Making Autos
 
 Week 4: Roaming Romi
+- Organization
+- Commenting
