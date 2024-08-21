@@ -3,7 +3,7 @@
 ### 1.1 Hello World
 
 - [Lesson](https://www.codecademy.com/courses/learn-java/lessons/hello-world-java/exercises/commenting-code)  
-[Cheatsheet](https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet)
+- [Cheatsheet](https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet)
 
 - [w3Schools Syntax](https://www.w3schools.com/java/java_syntax.asp)  
 - [w3Schools Output](https://www.w3schools.com/java/java_output.asp)  
