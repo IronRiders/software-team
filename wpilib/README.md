@@ -1,8 +1,6 @@
 # WPILib Curriculum
 
-Welcome to WPILib Curriculum!
-This one's for Java learners who finished Java curriculum, as well as  
-those of you who already know Java.
+Welcome to WPILib Curriculum! This one's for Java learners who finished Java curriculum, as well as those of you who already know Java.
 
 ### Overview
 

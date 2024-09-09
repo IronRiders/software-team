@@ -2,13 +2,13 @@
 
 ### 1.1 What is WPILib?
 
-It would be unreasonably difficult, not to mention time-consuming, to code an entire system architecture for the robot. So, WPILib provides a standardized way to interact with the robot with (fairly simple) Java.
+It would be unreasonably difficult, not to mention time-consuming, to make everything for the robot from scratch. So, WPILib provides a standardized way to interact with the robot with (fairly simple) Java.
 
 - [WPILib Description](https://docs.wpilib.org/en/stable/docs/software/what-is-wpilib.html)
 
 ### 1.2 Subsystems
 
-Generally, it's best to split the code into modular parts which are kept seperate. Not doing so can result in 'spaghetti code' as demonstrated [here](https://www.youtube.com/watch?v=k238XpMMn38).
+Generally, it's best to split the code into modular parts which are kept separate. Not doing so can result in 'spaghetti code' as demonstrated [here](https://www.youtube.com/watch?v=k238XpMMn38).
 
 - [WPILib Subsystems](https://docs.wpilib.org/en/stable/docs/software/commandbased/subsystems.html)
 

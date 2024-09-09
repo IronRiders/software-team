@@ -2,7 +2,7 @@
 
 ### 4.1 Organization
 
-We generally like to standardize the way we actually organize our code, that way things are easily navigable for all contributers.
+We generally like to standardize the way we actually organize our code, that way things are easily navigable for all contributors.
 
 ### 4.2 Commenting
 
@@ -10,4 +10,4 @@ For a similar reason, we should comment basically everything so that others know
 
 ### Romi the Robot
 
-Romi is lil' baby robot which can operate on WPILib just like the actual robot. It has two wheels and a camera.
+Romi is lil' baby robot which can operate on WPILib just like the actual robot. It has two wheels and a camera. For the final part of your training, you will try to make Romi move.

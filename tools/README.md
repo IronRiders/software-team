@@ -4,7 +4,7 @@ Our department uses all sorts of helpful tools to make the process of
 coding collaboratively much easier.
 
 - [Essentials](#essentials)
-- [Libraries & Apps](#libraries-and-apps)
+- [Libraries & Apps](#other-libraries-and-apps)
 
 ## Essentials
 
@@ -43,7 +43,7 @@ _WPILib_ refers to both the software libraries that FRC provides for writing rob
 
 To install WPILib, follow [FRC's instructions](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html).  Be sure to say "yes" when it asks if you want to install [VS Code](#vs-code).
 
-## Libraries and Apps
+## Other Libraries and Apps
 
 ### PathPlanner
 
