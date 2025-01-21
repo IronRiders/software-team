@@ -1,0 +1,19 @@
+{
+  "game": "Iron Hallway",
+  "field-image": "iron-hallway.png",
+  "field-corners": {
+    "top-left": [
+      621,
+      416
+    ],
+    "bottom-right": [
+      1346,
+      706
+    ]
+  },
+  "field-size": [
+    30,
+    13
+  ],
+  "field-unit": "foot"
+}
