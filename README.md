@@ -1,6 +1,6 @@
 # Software Team Quickstart Guide
 
-Welcome!  If you're here you have at least passing interest in coding for the Iron Riders.  Here you'll find pointers on how to get started.
+Welcome!  If you're here you have at least passing interest in coding for- or looking at the code of- the Iron Riders.  Here you'll find pointers on how to get started.
 
 TODO - this document is a work in progress, incomplete sections marked with TODO
 
