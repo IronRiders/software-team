@@ -3,9 +3,6 @@
 Our department uses all sorts of helpful tools to make the process of  
 coding collaboratively much easier.
 
-- [Essentials](#essentials)
-- [Libraries & Apps](#other-libraries-and-apps)
-
 ## Essentials
 
 ### GitHub
@@ -16,7 +13,9 @@ _Git_ is an open source "source control" system.  It is a tool that runs on your
 
 _GitHub_ is a website that offers a central place for teams to manage projects.
 
-[Learn about Git and GitHub here](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
+1. [Learn about Git and GitHub here](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
+2. [Then Create an Account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
+
 
 You are ready to use GitHub when:
 
