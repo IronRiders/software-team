@@ -12,7 +12,7 @@ coding collaboratively much easier.
 
 We use Git and GitHub for managing source code files and other information (like this file!)
 
-_Git_ is an open source "source control" system.  It is a tool that runs on your local computer.  You probably already have git installed.
+_Git_ is an open source "source control" system.  It is a tool that runs on your local computer.  You probably already have git installed. If not you should [download Git](https://git-scm.com/downloads).
 
 _GitHub_ is a website that offers a central place for teams to manage projects.
 
