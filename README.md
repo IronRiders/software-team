@@ -6,7 +6,7 @@ TODO - this document is a work in progress, incomplete sections marked with TODO
 
 ## What You Need To Know
 
-There are a number of tools and technologies we use as a team that you should familiarize yourself with.  If you aren't an expert in some (or all!) of these, don't worry.  There's tons of learning resources online and your teammates and mentors are here to help!
+There are a number of tools and technologies we use as a team that you should familiarize yourself with.  If you aren't an expert in some (or all) of these, don't worry.  There's tons of learning resources online and your teammates and mentors are here to help!
 
 Here are some places for you to begin exploration:
 
@@ -17,13 +17,13 @@ Here are some places for you to begin exploration:
 
 A good first step is to get your laptop set up for programming.  It's much easier to familiarize yourself with stuff you have available and running on your computer.
 
-Unfortunately we can't currently do this install on school laptops.  So you'll need your own, but if you don't have one talk to the team and we'll figure out how to get one for you.
+Unfortunately we can't currently do this install on school laptops.  So you'll need your own, but if you don't have one talk to the team and we'll figure out how to get one for you, probably.
 
 Here's some specific things you should install & familiarize yourself with:
 
-- [GitHub](./tools/README.md/#github)
-- [VS Code](./tools/README.md/#vs-code)
-- [FRC Game Tools](./tools/README.md/#libraries-and-apps)
+- [GitHub](./curriculum/tools/README.md/#github)
+- [VS Code](./curriculum/tools/README.md/#vs-code)
+- [FRC Game Tools](./curriculum/tools/README.md/#libraries-and-apps)
 
 ## Programming
 
@@ -35,14 +35,14 @@ Programming is a large topic but please don't get overwhelmed - FIRST is designe
 
 ### Java
 
-- [Java Curriculum](./java/README.md)
+- [Java Curriculum](./curriculum/java/README.md)
 - [Java w3Schools](https://www.w3schools.com/java/default.asp)
 
 TODO
 
 ### WPILib
 
-- [WPILib Curriculum](./wpilib/README.md)
+- [WPILib Curriculum](./curriculum/wpilib/README.md)
 - [WPILib Website](https://docs.wpilib.org/en/stable/index.html)
 
 TODO
@@ -50,4 +50,4 @@ TODO
 
 
 
-Last Update: 8/21/24
+Last Update: 3/24/25
