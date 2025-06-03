@@ -4,7 +4,7 @@ One of the major problems the software department has faced in the past is regul
 
 This document and its child documents are made specifically to help with this problem. I'll try to explain practically everything we do and why.
 
-Please know: this is a living document. Just like any other of our repositories, you can propose changes- which is especially important to remember with these regulations. Want something changed? Make a pull request, or talk to the current software lead!
+Please know: this is a living document. Just like any other of our repositories, you can propose changes- which is especially important to remember with these regulations. Want something changed? Make a pull request, or talk to the current Controls Director!
 
 ### Formatting
 

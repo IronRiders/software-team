@@ -1,5 +1,5 @@
 # Season Log 2024-2025 Reefscape
-Software Lead: mischa r. adler
+Controls Director: mischa r. adler
 
 ### What went wrong?
 
