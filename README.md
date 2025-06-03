@@ -38,16 +38,16 @@ Programming is a large topic but please don't get overwhelmed - FIRST is designe
 - [Java Curriculum](./curriculum/java/README.md)
 - [Java w3Schools](https://www.w3schools.com/java/default.asp)
 
-TODO
+TODO: Discuss changes going forward
 
 ### WPILib
 
 - [WPILib Curriculum](./curriculum/wpilib/README.md)
 - [WPILib Website](https://docs.wpilib.org/en/stable/index.html)
 
-TODO
+TODO: Need COMPLETE REWRITE!
 
 
 
 
-Last Update: 3/24/25
+Last Update: 6/3/25
